@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://europa-league-prognose.de/sitemap.xml
